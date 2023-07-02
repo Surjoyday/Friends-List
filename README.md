@@ -5,3 +5,8 @@
 ## My Process
 
 ### Built with
+
+* Semantic HTML5 markup
+* CSS flexbox
+* CSS media-query
+* CSS pseudo elements
